@@ -128,7 +128,7 @@ const ProjectsSection = () => {
 
 const ProcessSection = () => {
   return (
-    <section className="max-w-[1280px] mx-auto px-6 lg:px-10 py-24">
+    <section id="approach" className="max-w-[1280px] mx-auto px-6 lg:px-10 py-24">
       <SectionHeader
         eyebrow="How I work"
         title={<>Business questions → Evidence → <span className="italic text-rust">Direction</span></>}

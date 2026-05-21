@@ -7,6 +7,7 @@ import { profile } from "../mock";
 const navItems = [
   { label: "Home", to: "/", anchor: null },
   { label: "Projects", to: "/", anchor: "projects" },
+  { label: "Research Approach", to: "/", anchor: "approach" },
   { label: "About", to: "/about", anchor: null },
   { label: "Contact", to: "/", anchor: "contact" },
 ];
